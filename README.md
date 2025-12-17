@@ -132,13 +132,13 @@ powerfit-gym-website/
 ## Screenshots
 
 ### Desktop View
-![Desktop Home Page]![alt text](../screenshots/desktop.png)
+![Desktop Home Page]![alt text](desktop.png)
 
 ### Mobile View
-![Mobile Home Page]![alt text](../screenshots/mobile1.png)
+![Mobile Home Page]![alt text](mobile1.png)
 
 ### Mobile View
-![Mobile Home Page]![alt text](../screenshots/mobile2.png)
+![Mobile Home Page]![alt text](mobile2.png)
 
 ## Author
 
