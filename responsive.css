@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+  }
+
+  .services-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.nav-links.show {
+  display: flex;
+  flex-direction: column;
+  background: #111;
+  position: absolute;
+  top: 70px;
+  right: 0;
+  width: 200px;
+  padding: 20px;
+}

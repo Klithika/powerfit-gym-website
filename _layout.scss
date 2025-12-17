@@ -1,0 +1,50 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: $dark-color;
+  color: white;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+  background: $light-bg;
+}
+
+.services {
+  padding: 60px 20px;
+}
+
+.services-grid {
+  @include responsive-grid(3);
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  background: $dark-color;
+  color: white;
+}
+.page-hero {
+  text-align: center;
+  padding: 60px 20px;
+  background: $light-bg;
+}
+
+.content {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+.content h3 {
+  margin-top: 20px;
+}
